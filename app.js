@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
 })
 
 app.post('/data',async() => {
-  res.send('Hello World rahul')})
+  res.send('Hello World rahul')});
 
   //deepak
 
